@@ -1,3 +1,11 @@
 TestResults/
 Lecture/bin/
+Lecture/obj
 Lesson2UnitTest/bin/
+Lesson2UnitTest/obj
+DI/DependencyInjection/bin
+DI/DependencyInjection/obj
+DI/ConstructorInjectionUnitTest/bin
+DI/ConstructorInjectionUnitTest/obj
+DI/DependencyInjectionConsoleApplication/bin
+DI/DependencyInjectionConsoleApplication/obj
